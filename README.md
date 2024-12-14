@@ -1,5 +1,7 @@
 Command to run the talk2db_code.py file - streamlit run talk2db_code.py
 
+Note - We have all our SQL and NoSQL functions, database connections and UI defined and executing in one single file i.e talk2db_code.py. Also clarified each function and its working below.
+
 In total there are 16 functions in the file:
 
 1. create_connection()
